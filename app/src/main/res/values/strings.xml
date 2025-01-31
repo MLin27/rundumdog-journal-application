@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Rundum.dog</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Karte</string>
+    <string name="title_notifications">Neu</string>
+    <string name="title_login">Login</string>
+    <string name="username_login">Benutzername</string>
+    <string name="password_login">Passwort</string>
+    <string name="anmelden">Anmelden</string>
+    <string name="text_login">Kein Konto? Einfach eins erstellen.</string>
+    <string name="register">Registrieren</string>
+    <string name="error_password">error_password</string>
+    <string name="filter_title">Filter</string>
+    <string name="entry_title">Filter</string>
+    <string name="entry_date">Date</string>
+    <string name="entry_message">Message</string>
+    <string name="already_have_account">Zurück</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="dialog_title">Add Entry</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="dialog_message">Would you like to add a note for this location?</string>
+
+</resources>
